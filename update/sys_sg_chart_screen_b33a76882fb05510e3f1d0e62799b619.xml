@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Record that are assigned to users and admin</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="Map">0b6c09a2b72200108223e126de11a9a0</icon>
+        <name>NeedIt Records Chart</name>
+        <report display_value="Active NeedIt Requests by Type">50fbf6064fa21300874e8020a310c7a3</report>
+        <roles_override>admin</roles_override>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-15 12:15:02</sys_created_on>
+        <sys_id>b33a76882fb05510e3f1d0e62799b619</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>NeedIt Records Chart</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_b33a76882fb05510e3f1d0e62799b619</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-15 12:48:06</sys_updated_on>
+        <tool_tip>false</tool_tip>
+        <type>report</type>
+        <use_last_point>true</use_last_point>
+        <widget display_value="Resolved incidents">9c056e52d7031100b96d45a3ce610396</widget>
+    </sys_sg_chart_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=b33a76882fb05510e3f1d0e62799b619"/>
+</record_update>
